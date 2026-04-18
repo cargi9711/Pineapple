@@ -1,0 +1,4 @@
+pineapple_system:
+  optimal_temperature: 25
+  watering_frequency_days: 3
+  soil_type: "sandy loam"
